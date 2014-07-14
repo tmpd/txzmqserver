@@ -1,0 +1,10 @@
+txzmq server as twistd plugin
+
+===============================================================================
+
+Usage: twistd [options] zmqserver [options]
+Options:
+  -e, --endpoint=  zeromq server endpoint [default: tcp://127.0.0.1:5555]
+      --version    Display Twisted version and exit.
+      --help       Display this help and exit.
+
